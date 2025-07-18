@@ -1,0 +1,95 @@
+{
+  "title": "Scrum Pulse",
+  "description": "Scrum Pulse is your ultimate planning poker and sprint estimation tool, designed for Agile teams and Scrum masters. faster, and more effective planning sessions.",
+  "footerDescription": "Simplify your Agile planning. Estimate stories quickly and run efficient sprint planning with Scrum Pulse.",
+  "features": [
+    {
+      "title": "Sprint Planning",
+      "description": "Plan and manage your sprints with intuitive drag-and-drop interface and backlog management.",
+      "icon": "tasks"
+    },
+    {
+      "title": "Team Collaboration",
+      "description": "Keep your team aligned with real-time updates, comments, and notifications.",
+      "icon": "users"
+    },
+    {
+      "title": "Progress Tracking",
+      "description": "Monitor your team's progress with beautiful charts and comprehensive reporting.",
+      "icon": "chart"
+    },
+    {
+      "title": "Calendar Integration",
+      "description": "Seamlessly integrate with your calendar for sprint planning and daily standups.",
+      "icon": "calendar"
+    },
+    {
+      "title": "Real-time Chat",
+      "description": "Communicate with your team members instantly with built-in messaging.",
+      "icon": "comments"
+    },
+    {
+      "title": "Mobile Ready",
+      "description": "Access your projects anywhere with our fully responsive mobile application.",
+      "icon": "mobile"
+    }
+  ],
+
+  "screenshots": [
+    {
+      "url": "https://raw.githubusercontent.com/alheki/new_images/refs/heads/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20Max%20-%202025-07-17%20at%2022.34.46.png",
+      "description": "Smooth app interface."
+    },
+    {
+      "url": "https://raw.githubusercontent.com/alheki/new_images/refs/heads/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20Max%20-%202025-07-17%20at%2022.38.11.png",
+      "description": "The services you need."
+    },
+    {
+      "url": "https://raw.githubusercontent.com/alheki/new_images/refs/heads/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20Max%20-%202025-07-17%20at%2022.43.29.png",
+      "description": "Squad Management"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/alheki/new_images/refs/heads/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20Max%20-%202025-07-17%20at%2022.45.17.png",
+      "description": "Create Tasks"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/alheki/new_images/refs/heads/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20Max%20-%202025-07-17%20at%2022.45.38.png",
+      "description": "Estimate votes"
+    }
+  ],
+  "aboutUs": {
+    "title": "About Scrum Pulse",
+    "description": "We are a passionate team of developers and project managers who understand the challenges of modern software development. Our mission is to create tools that make agile project management simple, efficient, and enjoyable for teams of all sizes.",
+    "team": [
+      {
+        "name": "Alex Johnson",
+        "role": "Lead Developer",
+        "image": "alex.jpg"
+      },
+      {
+        "name": "Sarah Chen",
+        "role": "UX Designer",
+        "image": "sarah.jpg"
+      },
+      {
+        "name": "Michael Rodriguez",
+        "role": "Product Manager",
+        "image": "michael.jpg"
+      }
+    ]
+  },
+  "contactInfo": {
+    "twitter": "hello@scrumpulse.com",
+    "facebook": "hello@scrumpulse.com",
+    "linkedin": "hello@scrumpulse.com",
+    "instagram": "hello@scrumpulse.com",
+    "email": "hello@scrumpulse.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "Maadi, Cairo, Egypt"
+  },
+  "appInfo": {
+    "iosBundleId": "hello@scrumpulse.com",
+    "androidPackage": " "
+  }
+
+}
